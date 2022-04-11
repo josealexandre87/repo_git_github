@@ -4,3 +4,7 @@ h1 {
     font-size: 20px;
     animation: both;
 }
+
+table {
+    background-color: red;
+}
